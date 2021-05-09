@@ -8,16 +8,4 @@
             // results.
             XCTAssertEqual(BitriseKit().text, "Hello, BitriseKit!")
         }
-      func testExampleX() {
-          // This is an example of a functional test case.
-          // Use XCTAssert and related functions to verify your tests produce the correct
-          // results.
-          XCTAssertEqual(BitriseKit().text, "Hello, BitriseKit!")
-      }
-      func testExampleBB() {
-          // This is an example of a functional test case.
-          // Use XCTAssert and related functions to verify your tests produce the correct
-          // results.
-          XCTAssertEqual(BitriseKit().text, "Hello, BitriseKit!")
-      }
     }
