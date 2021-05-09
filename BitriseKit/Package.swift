@@ -11,6 +11,9 @@ let package = Package(
             name: "BitriseKit",
             targets: ["BitriseKit"]),
       .library(
+          name: "BitriseKitTests",
+          targets: ["BitriseKitTests"]),
+      .library(
           name: "BitriseModule1",
           targets: ["BitriseModule1"]),
       .library(
